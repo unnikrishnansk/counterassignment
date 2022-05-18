@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.btn{
+  background-color: teal;
+  height: 30px;
+  width: 100px;
+  border: 0;
+  margin-left: 10px;
+  color: aliceblue;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.green{
+  color: green;
+}
+
+.red{
+  color: red;
+}
